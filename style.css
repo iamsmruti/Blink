@@ -195,6 +195,18 @@ html{
 }
 /* THE END OF OUR TEAM SECTION */
 
+.reviews{
+    justify-content: space-around;
+}
+
+.rev span{
+    color: #Ee3dc9;
+    font-size: 200%;
+}
+
+.rev{
+    line-height: 150%;
+}
 
 /* THE START OF FOUTH SECTION */
 .con6{
